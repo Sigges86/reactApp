@@ -1,0 +1,23 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sigges86/reactApp.git"
+  },
+  "author": "Sigge Örn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sigges86/reactApp/issues"
+  },
+  "homepage": "https://github.com/Sigges86/reactApp#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "4.9.3"
+  }
+}
